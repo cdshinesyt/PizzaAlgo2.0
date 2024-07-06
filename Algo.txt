@@ -1,7 +1,11 @@
-Know what pizza spots are closest to you for "minimal tip" (jk)
+Know what pizza spots are closest to you 
 Acquire some type of currency through legal means
 Decide which business to order from
 Take note of the reviews from that spot
+Decide How many people you are ordering a pizza for
 Create a Pizza
+Enter your credit card information
 Make sure that you can afford it while also not creating a bad pizza
 Place the order
+Choose to have it delivered or pick it up
+Enjoy!
